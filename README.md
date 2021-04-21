@@ -6,6 +6,7 @@ Showing how to use github
 ## Purpose
 
 Sample website with plenty of files for demos
+new intro text
 
 ## Purpose
 
