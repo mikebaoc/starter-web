@@ -15,3 +15,6 @@ new purpose text
 
 ## Deployment
 simple web deployment
+
+### Copyright
+test copy right notice
