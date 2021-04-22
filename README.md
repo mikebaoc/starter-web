@@ -9,7 +9,9 @@ Sample website with plenty of files for demos
 new intro text
 
 ## Purpose
+new purpose text
 
 ## How to contribute
 
 ## Deployment
+simple web deployment
