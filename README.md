@@ -12,6 +12,7 @@ new intro text
 new purpose text
 
 ## How to contribute
+Please fork this repository and then issue	Pull Requests for review.
 
 ## Deployment
 simple web deployment
