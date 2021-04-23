@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jason Tayloer dkdk@name.com
 
 # THANKS
 
